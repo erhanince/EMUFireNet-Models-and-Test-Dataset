@@ -16,4 +16,5 @@ There are 1,830 images under the Fire and 1,776 under the NoFire classes.
 "train2" dataset which is used for training both models also has two classes and contains 10,800 Fire and 11,144 NoFire 
 images.
 
-
+#Custom EMUDataset
+You may download our custom test data from the link below:
