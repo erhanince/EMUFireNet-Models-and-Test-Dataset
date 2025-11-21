@@ -1,4 +1,4 @@
-# EMUFireNet-Dataset
+# EMUFireNet Models and Test Dataset
 This repository houses the custom EMU Forest Fire dataset used for testing robustness and accuracy of forest fire detection models. The dataset has two classes: Fire and NoFire.
 There are 1830 images under the Fire and 1776 under the NoFire classes. 
 
