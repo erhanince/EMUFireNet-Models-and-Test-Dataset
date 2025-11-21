@@ -18,4 +18,4 @@ images.
 
 # Custom EMUDataset
  
-You may download our custom test data from the link below:
+You may download EMU's custom test data from the link below:
